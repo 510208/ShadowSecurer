@@ -1,0 +1,11 @@
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Debug\ShadowSecurer.exe.config
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Debug\ShadowSecurer.exe
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Debug\ShadowSecurer.pdb
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Debug\ShadowSecurer.xml
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.main.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.Resources.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.vbproj.GenerateResource.Cache
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.exe
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.xml
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.pdb
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.setNew.resources
