@@ -36,6 +36,8 @@ Public Class main
         End If
         lblVdiskInfo.Text = lblVdiskInfo.Text & Choose(vdiskHaveStr, "尚未創建磁碟機", "已經創建磁碟機")
         passwordText = setNew.ReadPasswordFromIni
+        setNew.Icon = Me.Icon
+        AboutBox1.Icon = Me.Icon
     End Sub
 
     Private Sub btnDecryptDisk_Click(sender As Object, e As EventArgs) Handles btnDecryptDisk.Click

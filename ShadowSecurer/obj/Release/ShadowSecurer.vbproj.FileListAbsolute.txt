@@ -1,0 +1,12 @@
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Release\ShadowSecurer.exe.config
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Release\ShadowSecurer.exe
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Release\ShadowSecurer.pdb
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\bin\Release\ShadowSecurer.xml
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.AboutBox1.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.main.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.Resources.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.setNew.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.vbproj.GenerateResource.Cache
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.exe
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.xml
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Release\ShadowSecurer.pdb

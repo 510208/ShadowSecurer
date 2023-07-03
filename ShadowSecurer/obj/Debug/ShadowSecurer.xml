@@ -19,6 +19,10 @@ ShadowSecurer
 	<summary>
   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
 </summary>
+</member><member name="P:ShadowSecurer.My.Resources.Resources.DiskHider">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
 </member><member name="T:ShadowSecurer.My.Resources.Resources">
 	<summary>
   用於查詢當地語系化字串等的強類型資源類別。
