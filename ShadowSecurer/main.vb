@@ -84,4 +84,30 @@ Public Class main
             End
         End If
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        AboutBox1.Show()
+    End Sub
+
+    Private Sub main_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        Select Case MsgBox("關閉後將會隱藏虛擬磁碟機，是否要關閉？", vbQuestion + vbYesNo)
+            Case MsgBoxResult.Yes
+                hiddenDiskBAT()
+                If Not (Directory.Exists("W:/")) Then
+                    vdiskUnlocked = False
+                    btnLockDisk.Enabled = vdiskUnlocked
+                    btnDecryptDisk.Enabled = Not vdiskUnlocked
+                    btnDeleteDisk.Enabled = vdiskUnlocked
+                    Return
+                End If
+                hiddenDiskBAT()
+                btnLockDisk.Enabled = vdiskUnlocked
+                btnDecryptDisk.Enabled = Not vdiskUnlocked
+                btnDeleteDisk.Enabled = vdiskUnlocked
+                End
+            Case MsgBoxResult.No
+                e.Cancel = True
+                Return
+        End Select
+    End Sub
 End Class

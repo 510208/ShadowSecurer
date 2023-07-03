@@ -28,6 +28,7 @@ Partial Class main
         Me.btnDecryptDisk = New System.Windows.Forms.Button()
         Me.btnLockDisk = New System.Windows.Forms.Button()
         Me.btnDeleteDisk = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -87,11 +88,21 @@ Partial Class main
         Me.btnDeleteDisk.Text = "刪除虛擬磁碟(&D)"
         Me.btnDeleteDisk.UseVisualStyleBackColor = False
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(189, 24)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 8
+        Me.Button1.Text = "關於(&A)"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(631, 145)
+        Me.ClientSize = New System.Drawing.Size(530, 145)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnDeleteDisk)
         Me.Controls.Add(Me.btnLockDisk)
         Me.Controls.Add(Me.btnDecryptDisk)
@@ -111,5 +122,6 @@ Partial Class main
     Friend WithEvents btnDecryptDisk As System.Windows.Forms.Button
     Friend WithEvents btnLockDisk As System.Windows.Forms.Button
     Friend WithEvents btnDeleteDisk As System.Windows.Forms.Button
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 
 End Class

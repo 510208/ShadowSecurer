@@ -9,3 +9,4 @@ C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecure
 C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.xml
 C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.pdb
 C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.setNew.resources
+C:\Users\Acer91\Documents\Visual Studio 2013\Projects\ShadowSecurer\ShadowSecurer\obj\Debug\ShadowSecurer.AboutBox1.resources
